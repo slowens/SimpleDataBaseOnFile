@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1454609761 source:c:\users\ksiêciuniu\desktop\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\body.cpp
+	"head.hpp"
+
+1454603851 c:\users\ksiêciuniu\desktop\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\head.hpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<string>
+	<fstream>
+	<windows.h>
+	"head.hpp"
+
+1454603733 source:c:\users\ksiêciuniu\desktop\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\main.cpp
+	"head.hpp"
+
+1454609761 source:c:\users\ksiêciuniu\desktop\programowanie obiektowe v1.0\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\body.cpp
+	"head.hpp"
+
+1454603851 c:\users\ksiêciuniu\desktop\programowanie obiektowe v1.0\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\head.hpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<sstream>
+	<string>
+	<fstream>
+	<windows.h>
+	"head.hpp"
+
+1454603733 source:c:\users\ksiêciuniu\desktop\programowanie obiektowe v1.0\gotowy projekt do oddania\biblioteka_multimedialna\biblioteka_multimedialna_v.1.0\main.cpp
+	"head.hpp"
+
